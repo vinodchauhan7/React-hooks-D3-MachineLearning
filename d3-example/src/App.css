@@ -8,6 +8,7 @@
 
 svg {
     background: #eee;
+    overflow: visible;
     margin-bottom: 2rem;
     display: block;
 }

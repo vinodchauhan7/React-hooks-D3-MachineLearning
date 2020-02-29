@@ -1,0 +1,16 @@
+.barContainer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex: 1;
+    flex-direction: column;
+}
+
+.buttons {
+    margin-top: 20px;
+}
+
+svg {
+    background-color: lightgray;
+    overflow: visible;
+}

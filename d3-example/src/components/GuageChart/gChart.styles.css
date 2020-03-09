@@ -1,0 +1,14 @@
+.gContainer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex: 1;
+}
+
+.buttons {
+    margin-top: 20px;
+}
+
+svg {
+    background-color: white;
+}
